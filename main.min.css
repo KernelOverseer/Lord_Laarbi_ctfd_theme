@@ -12390,15 +12390,15 @@ table>thead>tr>td {
 
 .form-control:focus {
     background-color: transparent;
-    border-color: #a3d39c;
-    box-shadow: 0 0 0 0.1rem #a3d39c;
+    border-color: #F96F5D;
+    box-shadow: 0 0 0 0.1rem #F96F5D;
     transition: background-color 0.3s, border-color 0.3s
 }
 
 .input-filled-valid {
     background-color: transparent !important;
-    border-color: #a3d39c;
-    box-shadow: 0 0 0 0.1rem #a3d39c;
+    border-color: #F96F5D;
+    box-shadow: 0 0 0 0.1rem #F96F5D;
     transition: background-color 0.3s, border-color 0.3s
 }
 
