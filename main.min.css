@@ -5546,6 +5546,7 @@ a.badge-dark.focus {
     padding: 2rem 1rem;
     margin-bottom: 2rem;
     background-color: #e9ecef;
+    color: rgba(13, 37, 42, 0);
     border-radius: 0.3rem
 }
 
