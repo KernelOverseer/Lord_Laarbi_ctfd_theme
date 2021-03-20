@@ -6223,6 +6223,7 @@ a.close.disabled {
 }
 
 .modal-dialog {
+    color: black;
     position: relative;
     width: auto;
     margin: 0.5rem;
